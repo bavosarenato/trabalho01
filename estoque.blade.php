@@ -1,0 +1,1 @@
+<h3>Essa e a view cadastro de estoque da empresa!</h3>
